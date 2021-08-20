@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DijkstraVisualizer/static/css/main.7eaf28d5.chunk.css",
+    "main.js": "/DijkstraVisualizer/static/js/main.e82b9e1c.chunk.js",
+    "main.js.map": "/DijkstraVisualizer/static/js/main.e82b9e1c.chunk.js.map",
+    "runtime-main.js": "/DijkstraVisualizer/static/js/runtime-main.40b5e1eb.js",
+    "runtime-main.js.map": "/DijkstraVisualizer/static/js/runtime-main.40b5e1eb.js.map",
+    "static/js/2.5aeaa19c.chunk.js": "/DijkstraVisualizer/static/js/2.5aeaa19c.chunk.js",
+    "static/js/2.5aeaa19c.chunk.js.map": "/DijkstraVisualizer/static/js/2.5aeaa19c.chunk.js.map",
+    "static/js/3.dc9a1d9c.chunk.js": "/DijkstraVisualizer/static/js/3.dc9a1d9c.chunk.js",
+    "static/js/3.dc9a1d9c.chunk.js.map": "/DijkstraVisualizer/static/js/3.dc9a1d9c.chunk.js.map",
+    "index.html": "/DijkstraVisualizer/index.html",
+    "static/css/main.7eaf28d5.chunk.css.map": "/DijkstraVisualizer/static/css/main.7eaf28d5.chunk.css.map",
+    "static/js/2.5aeaa19c.chunk.js.LICENSE.txt": "/DijkstraVisualizer/static/js/2.5aeaa19c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b5e1eb.js",
+    "static/js/2.5aeaa19c.chunk.js",
+    "static/css/main.7eaf28d5.chunk.css",
+    "static/js/main.e82b9e1c.chunk.js"
+  ]
+}
