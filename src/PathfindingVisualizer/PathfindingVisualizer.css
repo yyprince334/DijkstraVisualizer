@@ -1,0 +1,26 @@
+.grid {
+    margin: 80px 0 0;
+}
+
+.dijkstraButton {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+    border: none;
+    display: inline-block;
+    color: black;
+    border: 2px solid lightgrey;
+    transition-duration: 0.4s;
+    box-shadow:darkgrey;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-top: 10px;
+    width: 200px;
+    height: 50px;
+    background-color:white;
+}
+
+
+.dijkstraButton:hover {
+    background-color: skyblue;
+    color: white;
+}
